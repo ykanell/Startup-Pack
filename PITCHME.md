@@ -2,7 +2,7 @@
 
 ### Introducing
 ## Startup Pack
-#### by Software Improvement Group
+#### by Software Improvement Group SIG
 
 ---
 
