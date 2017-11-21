@@ -101,14 +101,6 @@ Ten Guidelines for future-proof code
 
 +++
 
-## Other Incubators
-
-- [ACE-incubator, Amsterdam](https://ace-incubator.nl) 
-- [Orange Grove, Athens](https://orangegrove.eu)
-
-
-+++
-
 ## Other Community Offerings
 
 - [EduPack: Code Clinics](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067) 
